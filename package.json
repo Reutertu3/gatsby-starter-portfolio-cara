@@ -16,7 +16,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-cara": "github:Reutertu3/gatsby-themes#main/themes/gatsby-theme-cara",
+    "@lekoarts/gatsby-theme-cara": "github:Reutertu3/gatsby-themes/tree/main/themes/gatsby-theme-cara",
     "gatsby": "^5.13.6",
     "gatsby-plugin-manifest": "^5.13.1",
     "gatsby-plugin-webpack-statoscope": "^1.0.3",
